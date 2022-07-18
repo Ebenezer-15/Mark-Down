@@ -17,7 +17,8 @@ __This text is strong__
 ~~ This text is stroke through~~
 
 <!-- HORIZONTAL RULE -->
---- ___
+--- 
+___
 
 <!-- BLOCKQUOTES -->
 > This text is a blockquote
